@@ -1,4 +1,4 @@
---Obfuscated by Timmy Obfuscator | https://discord.gg/XvxUYFWuqA
+--OBFUSCATED BY PARADOX (PARADOZ HUB ON TOP)
 
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 local function dec(data)
