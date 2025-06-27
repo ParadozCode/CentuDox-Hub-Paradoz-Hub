@@ -1,4 +1,4 @@
---OBFUSCATED BY PARADOX (PARADOZ HUB ON TOP)
+--Obfuscated By Paradox (Paradox Hub On TOP)
 
 local b='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/'
 local function dec(data)
