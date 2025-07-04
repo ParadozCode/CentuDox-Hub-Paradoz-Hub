@@ -1,3 +1,5 @@
+--SCRIPT MADE BY Paradox
+
 local a = game:GetService("HttpService")
 local b = game:GetService("Players")
 local c = b.LocalPlayer
