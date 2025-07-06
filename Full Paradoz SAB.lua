@@ -1,4 +1,7 @@
---SCRIPT MADE BY Paradox
+--SCRIPT MADE BY PARADOX
+
+--WHY R U LOOKING HERE BOI TRYING TO SKID?
+
 
 local a = game:GetService("HttpService")
 local b = game:GetService("Players")
