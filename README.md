@@ -1,6 +1,6 @@
 
 
-🌌 Centudox
+🌌 Centudox Hub #GOATED
 
   <p align="center">
   
