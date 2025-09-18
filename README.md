@@ -41,7 +41,7 @@
 -- 🚀 Fast, clean and always updated
 
 
-Blox Fruits Aimbot HUB
+Blox Fruits Aimbot HUB 🟢 
 ======================
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHub-/refs/heads/main/Paradoz%20Hub%20CentuDox.lua", true))()
@@ -49,7 +49,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHu
 -- 🔥 Just execute the hub and enjoy
 -- 🎮 Game will auto-detect features
 
-99 Nights At A Forest
+99 Nights At A Forest 🟢 
 =====================
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/Paradoz%20Hub%20CentuDox%2099%20Nights.lua", true))()
