@@ -60,4 +60,4 @@ if s then
     end)
 end
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHub-/refs/heads/main/CentuDox%20New.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDox%20Lua.xyz", true))()
