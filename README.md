@@ -3,11 +3,8 @@
 🌌 Centudox
 
 <p align="center">
-  <img src="https://i.ibb.co/9VD4k7F/neon-paradozhub-banner.png" alt="ParadozHub Banner" width="800"/>
-</p>  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+ParadozHub+⚡;💻+Lua+Script+Developer;🔥+Roblox+Exploits+%26+Hubs;🟢+Supports+Blox+Fruits;🚀+CentuDox+Script+Hub" alt="Typing SVG" />
-</p>  
----
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+ParadozHub+⚡;🟢+Supports+Blox+Fruits;🔴+Grow+a+Garden;🔴+99+Days+in+a+Forest;🔴+Steal+a+Brainrot" alt="Typing SVG" />
+</p>---
 
 👨‍💻 About Me
 
