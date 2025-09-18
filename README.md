@@ -56,7 +56,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHu
 📌 Stay Connected
 
 🌟 Star this repo for updates
-📬 DM me for collaborations
+📬 DM me for any bugs
 💡 More scripts & features coming soon
 
 
