@@ -3,10 +3,10 @@
 🌌 Centudox
 
 <p align="center">
-  <!-- Logo / Banner -->
+  
   <img src="assets/paradozhub.png" alt="ParadozHub Logo" width="400"/><br><br>
 
-  <!-- Typing SVG -->
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+CentuDox+Hub!+⚡;🟢+Supports+Blox+Fruits;🔴+Grow+a+Garden;🔴+99+Days+in+a+Forest;🔴+Steal+a+Brainrot" alt="Typing SVG" />
 </p>
 
