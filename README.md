@@ -1,7 +1,7 @@
 
 
-🌌 Centudox Hub ==========GOATED
-
+🌌 Centudox Hub GOATED
+======================
   <p align="center">
   
    <img src="assets/paradozhub.png" alt="ParadozHub Logo" width="400"/><br><br>
