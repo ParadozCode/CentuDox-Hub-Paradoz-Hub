@@ -16,15 +16,15 @@
 
 🔥 Creator of ParadozHub
 
-🟢 Working on CentuDox Hub
+🟢 Works on CentuDox Hub
 
-🎮 Focused on Blox Fruits scripts
+🎮 Focuses on Blox Fruits scripts and others
 
 
 
 ---
 
-🛠️ Features of ParadozHub
+🛠️ Features of CentuDox Hub
 
 ✔️ Smooth & Optimized Lua Scripts
 ✔️ Supports Blox Fruits
@@ -34,12 +34,13 @@
 
 ---
 
-🚀 Example Script Preview
+🚀 Script Preview
 
 -- 👋 Welcome to ParadozHub!
 -- ✅ Works with Blox Fruits + more
 -- 🚀 Fast, clean and always updated
-
+Blox Fruits Aimbot
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHub-/refs/heads/main/Paradoz%20Hub%20CentuDox.lua", true))()
 -- 🔥 Just execute the hub and enjoy
 -- 🎮 Game will auto-detect features
 
