@@ -1,5 +1,2 @@
 
-local Players = game:GetService("Players")
-local LocalPlayer = Players.LocalPlayer
-
-LocalPlayer:Kick("Script deleted lol 🥀 Join Centu Shermans Discord server for more updates 🤣")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDox%20V2.lua", true))()
