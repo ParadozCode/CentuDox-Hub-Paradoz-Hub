@@ -44,7 +44,7 @@
 Blox Fruits Aimbot HUB 🟢 
 ======================
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/ParadozHub-/refs/heads/main/Paradoz%20Hub%20CentuDox.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentudoxLoader.xyz", true))()
 
 -- 🔥 Just execute the hub and enjoy
 -- 🎮 Game will auto-detect features
