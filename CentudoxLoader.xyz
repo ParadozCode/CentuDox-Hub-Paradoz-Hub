@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDox%20V2.lua", true))()
+loadstring(game:HttpGet("https://scriptprotector.vercel.app/api/raw/cdbdb61ebd7ddabbf633f22c50d3c042", true))()
