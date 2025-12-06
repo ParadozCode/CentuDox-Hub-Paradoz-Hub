@@ -1,1 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDoxMain.lua", true))()
+--// Kick player with a revamp message
+local Players = game:GetService("Players")
+
+Players.PlayerAdded:Connect(function(player)
+    player:Kick("⚠️ Script is currently on revamp. Please try again later!")
+end)
