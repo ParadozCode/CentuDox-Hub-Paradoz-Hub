@@ -1,6 +1,6 @@
---// Kick player with a revamp message
+
 local Players = game:GetService("Players")
 
 Players.PlayerAdded:Connect(function(player)
-    player:Kick("⚠️ Script is currently on revamp. Please try again later!")
+    player:Kick(" Script is currently on revamp. Please try again later!")
 end)
