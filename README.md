@@ -7,7 +7,7 @@
    <img src="assets/paradozhub.png" alt="ParadozHub Logo" width="400"/><br><br>
 
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+CentuDox+Hub!+⚡;🟢+Supports+Blox+Fruits;🔴+Grow+a+Garden;🟢+99+Days+in+a+Forest;🔴+Steal+a+Brainrot" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=⚡+Welcome+to+CentuDox+Hub!+⚡; 🔴+Supports+Blox+Fruits;🔴+Grow+a+Garden; 🔴+99+Days+in+a+Forest;🔴+Steal+a+Brainrot" alt="Typing SVG" />
 </p>
 
 👨‍💻 About Me
@@ -41,18 +41,18 @@
 -- 🚀 Fast, clean and always updated
 
 
-Blox Fruits Aimbot HUB 🟢 
+Blox Fruits Aimbot HUB 🔴 
 ======================
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentudoxLoader.xyz", true))()
+Currently Down!
 
 -- 🔥 Just execute the hub and enjoy
 -- 🎮 Game will auto-detect features
 
-99 Nights At A Forest 🟢 
+99 Nights At A Forest 🔴 
 =====================
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/Paradoz%20Hub%20CentuDox%2099%20Nights.lua", true))()
+Currently Down!
 
 
 ---
