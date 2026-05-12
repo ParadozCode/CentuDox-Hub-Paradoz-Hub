@@ -1,0 +1,112 @@
+--[[
+  I TOOK A IMAGE OF U     
+  FACE REVEAL 🤡 🤡 
+       .-------.
+     .'  _   _  '.
+    /   (o) (o)   \
+    |    深  深    |    <-- NICE SKID, CLOWN.
+    |      _      |
+     \    \_/    /
+      '.       .'
+        '-----'
+        
+  🤡 
+    STOP SKIDDING CODE ( GO LEARN SMTHING)
+]]
+
+local ScreenGui = Instance.new("ScreenGui")
+local MainFrame = Instance.new("Frame")
+local UICorner = Instance.new("UICorner")
+local Title = Instance.new("TextLabel")
+local LiteButton = Instance.new("TextButton")
+local HubButton = Instance.new("TextButton")
+local LiteDesc = Instance.new("TextLabel")
+local HubDesc = Instance.new("TextLabel")
+local UICorner_2 = Instance.new("UICorner")
+local UICorner_3 = Instance.new("UICorner")
+
+ScreenGui.Parent = game.CoreGui
+ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+
+MainFrame.Name = "MainFrame"
+MainFrame.Parent = ScreenGui
+MainFrame.BackgroundColor3 = Color3.fromRGB(15, 25, 45)
+MainFrame.Position = UDim2.new(0.5, -150, 0.5, -100)
+MainFrame.Size = UDim2.new(0, 300, 0, 220)
+MainFrame.Active = true
+MainFrame.Draggable = true
+
+UICorner.CornerRadius = UDim.new(0, 12)
+UICorner.Parent = MainFrame
+
+Title.Name = "Title"
+Title.Parent = MainFrame
+Title.BackgroundTransparency = 1
+Title.Size = UDim2.new(1, 0, 0, 50)
+Title.Font = Enum.Font.GothamBold
+Title.Text = "Which CentuDox do you want to execute?"
+Title.TextColor3 = Color3.fromRGB(255, 255, 255)
+Title.TextSize = 13.000
+Title.TextWrapped = true
+
+LiteButton.Name = "LiteButton"
+LiteButton.Parent = MainFrame
+LiteButton.BackgroundColor3 = Color3.fromRGB(30, 45, 75)
+LiteButton.Position = UDim2.new(0, 15, 0, 60)
+LiteButton.Size = UDim2.new(0, 120, 0, 40)
+LiteButton.Font = Enum.Font.GothamSemibold
+LiteButton.Text = "Lite"
+LiteButton.TextColor3 = Color3.fromRGB(0, 200, 255)
+LiteButton.TextSize = 16.000
+
+UICorner_2.CornerRadius = UDim.new(0, 8)
+UICorner_2.Parent = LiteButton
+
+LiteDesc.Name = "LiteDesc"
+LiteDesc.Parent = MainFrame
+LiteDesc.BackgroundTransparency = 1
+LiteDesc.Position = UDim2.new(0, 15, 0, 105)
+LiteDesc.Size = UDim2.new(0, 120, 0, 100)
+LiteDesc.Font = Enum.Font.Gotham
+LiteDesc.Text = "• Simpler version\n• Less laggy\n• Mobile optimized"
+LiteDesc.TextColor3 = Color3.fromRGB(180, 180, 180)
+LiteDesc.TextSize = 11.000
+LiteDesc.TextXAlignment = Enum.TextXAlignment.Left
+LiteDesc.TextYAlignment = Enum.TextYAlignment.Top
+
+-- Hub Button
+HubButton.Name = "HubButton"
+HubButton.Parent = MainFrame
+HubButton.BackgroundColor3 = Color3.fromRGB(30, 45, 75)
+HubButton.Position = UDim2.new(0, 165, 0, 60)
+HubButton.Size = UDim2.new(0, 120, 0, 40)
+HubButton.Font = Enum.Font.GothamSemibold
+HubButton.Text = "Hub"
+HubButton.TextColor3 = Color3.fromRGB(255, 255, 255)
+HubButton.TextSize = 16.000
+
+UICorner_3.CornerRadius = UDim.new(0, 8)
+UICorner_3.Parent = HubButton
+
+HubDesc.Name = "HubDesc"
+HubDesc.Parent = MainFrame
+HubDesc.BackgroundTransparency = 1
+HubDesc.Position = UDim2.new(0, 165, 0, 105)
+HubDesc.Size = UDim2.new(0, 120, 0, 100)
+HubDesc.Font = Enum.Font.Gotham
+HubDesc.Text = "• Better version\n• Mid Performance\n• Better features\n• Auto save"
+HubDesc.TextColor3 = Color3.fromRGB(180, 180, 180)
+HubDesc.TextSize = 11.000
+HubDesc.TextXAlignment = Enum.TextXAlignment.Left
+HubDesc.TextYAlignment = Enum.TextYAlignment.Top
+
+
+LiteButton.MouseButton1Click:Connect(function()
+    ScreenGui:Destroy()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDox-Lite.lua"))()
+end)
+
+HubButton.MouseButton1Click:Connect(function()
+    ScreenGui:Destroy()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/ParadozCode/CentuDox-Hub-Paradoz-Hub/refs/heads/main/CentuDox-Hub.lua"))()
+end)
